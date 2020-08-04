@@ -1,0 +1,33 @@
+{
+  "name": "perpustakaan-lokal",
+  "version": "1.0.0",
+  "description": "Learning nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "~1.17.1",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.3",
+    "express": "~4.15.2",
+    "express-messages": "^1.0.1",
+    "express-session": "^1.15.5",
+    "express-validator": "^4.2.1",
+    "mongoose": "^4.11.12",
+    "morgan": "~1.8.1",
+    "pug": "~2.0.0-beta11",
+    "serve-favicon": "~2.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcver/Learn-Aplikasi_Perpustakaan.git"
+  },
+  "author": "lcver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcver/Learn-Aplikasi_Perpustakaan/issues"
+  },
+  "homepage": "https://github.com/lcver/Learn-Aplikasi_Perpustakaan#readme"
+}
